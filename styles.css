@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+     background-color: rgb(244, 95, 95); */
+}
+.container{
+    margin: 40px auto;
+}
+.form-control{
+    
+    padding: 15px;
+    border-radius: 5px;
+  box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+p{
+    color: white;
+    margin-top: 15px;
+    text-align: center;
+}
